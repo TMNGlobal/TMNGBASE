@@ -3,7 +3,7 @@ pragma solidity ^0.7.0;
 
 /*
 /* Project : TMN Global Token */
-/* Description : ERC 20 Standard Token with Option to Freeze & Release Tokens */
+/* Description : ERC 20 Standard Token */
 /* Project Website : https://tmn-global.com */
 /* Author : TMN Global
  *
